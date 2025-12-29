@@ -45,7 +45,7 @@ This work is intended for:
   👉 *[Zenodo.org](https://zenodo.org/records/17066899)*
 
 - 📄 **Research Figma File:**  
-  👉 Available in this repository
+  👉 *[Figma File](https://www.figma.com/community/file/1587374065930790144)*
 
 ---
 
